@@ -11,7 +11,7 @@ U okviru ovog projekta implementirana je Bloom filter struktura podataka u progr
 
 # Skup podataka
 
-Za eksperimentalni dio projekta korišten je [E-commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data) dataset s platforme Kaggle.
+Za eksperimentalni dio projekta korišten je [E-commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data) dataset, preuzet sa platforme Kaggle.
 
 ## Korištena literatura
 
