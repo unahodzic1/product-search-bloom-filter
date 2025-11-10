@@ -9,9 +9,17 @@ U okviru ovog projekta implementirana je Bloom filter struktura podataka u progr
 - Python 3.12.12
 - Google Colab
 
-# Korišteni skup podataka
+# Skup podataka
 
-Za eksperimentalni dio projekta korišten je sljedeći dataset s platforme [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data).
+Za eksperimentalni dio projekta korišten je [E-commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data) dataset s platforme Kaggle.
+
+## Korištena literatura
+
+1. Broder, A., & Mitzenmacher, M. *Network Applications of Bloom Filters: A Survey*.  
+2. Blustein, J., & El-Maazawi, A. *Bloom Filters: A Tutorial, Analysis, and Survey*.  
+3. Rottenstreich, O., & Keslassy, I. *The Bloom Paradox: When Not to Use a Bloom Filter?*.  
+4. Luo, L., Guo, D., Ma, R. T. B., Rottenstreich, O., & Luo, X. *Optimizing Bloom Filter: Challenges, Solutions, and Comparisons*.
+
 
 ---
 
@@ -19,6 +27,8 @@ Za eksperimentalni dio projekta korišten je sljedeći dataset s platforme [Kagg
 
 - [Kovačević Nađa](https://github.com/nkovacevic3)
 - [Hodžić Una](https://github.com/unahodzic1)
+
 Elektrotehnički fakultet Univerziteta u Sarajevu
+Akademska godina: 2025/2026
 
 
