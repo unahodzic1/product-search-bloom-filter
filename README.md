@@ -25,8 +25,11 @@ Za eksperimentalni dio projekta korišten je [E-commerce Data](https://www.kaggl
 
 # Autori
 
-- [Kovačević Nađa](https://github.com/nkovacevic3)
-- [Hodžić Una](https://github.com/unahodzic1)
+| Ime i prezime | GitHub profil | Email |
+|----------------|---------------|--------|
+| **Nađa Kovačević** | [nkovacevic3](https://github.com/nkovacevic3) | nkovacevic3@etf.unsa.ba |
+| **Una Hodžić** | [unahodzic1](https://github.com/unahodzic1) | uhodzic1@etf.unsa.ba |
+
 
 Elektrotehnički fakultet Univerziteta u Sarajevu
 
