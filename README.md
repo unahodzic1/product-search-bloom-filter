@@ -29,6 +29,7 @@ Za eksperimentalni dio projekta korišten je [E-commerce Data](https://www.kaggl
 - [Hodžić Una](https://github.com/unahodzic1)
 
 Elektrotehnički fakultet Univerziteta u Sarajevu
+
 Akademska godina: 2025/2026
 
 
