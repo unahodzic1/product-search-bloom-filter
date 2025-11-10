@@ -5,5 +5,20 @@ U okviru ovog projekta implementirana je Bloom filter struktura podataka u progr
 ---
 
 # Tehnologije i okruženje
+
 - Python 3.12.12
 - Google Colab
+
+# Korišteni skup podataka
+
+Za eksperimentalni dio projekta korišten je sljedeći dataset s platforme [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data).
+
+---
+
+# Autori
+
+- [Kovačević Nađa](https://github.com/nkovacevic3)
+- [Hodžić Una](https://github.com/unahodzic1)
+Elektrotehnički fakultet Univerziteta u Sarajevu
+
+
